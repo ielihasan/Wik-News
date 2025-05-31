@@ -3,9 +3,12 @@
 
 This is a web-based news portal project named **Wik News**, designed to deliver various global news articles in a responsive and visually appealing layout.
 
-## 🌐 Live Demo
-
-_(Add link here after deploying if applicable)_
+---
+![Screenshot 2025-05-31 093908](https://github.com/user-attachments/assets/d9e51ace-d906-4a9d-b249-09595aded8cb)
+![Screenshot 2025-05-31 093846](https://github.com/user-attachments/assets/791e3b82-c35e-40b0-a332-59a9fe2b9146)
+![Screenshot 2025-05-31 093929](https://github.com/user-attachments/assets/249eed1f-e906-4a27-b70c-fbb840a623eb)
+![Screenshot 2025-05-31 094047](https://github.com/user-attachments/assets/904e12a8-d0a7-41dc-9142-b949ecaea351)
+![Screenshot 2025-05-31 094020](https://github.com/user-attachments/assets/6678c02a-448a-4175-b9ef-ed721a306377)
 
 ---
 
@@ -73,7 +76,7 @@ project/
    ```bash
    git clone https://github.com/yourusername/wik-news-web-project.git
    ```
-2. Navigate to the project folder:
+2. Navigate to the project folder After add directories same as folder structure given:
    ```bash
    cd wik-news-web-project/22021519-076_webProject/Wik\ news
    ```
